@@ -2,7 +2,7 @@
   "name": "ai-project-focal-x",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://NourM21.github.io/AI_Project/",
+  "homepage": "https://nourm21.github.io/AI_Project/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
